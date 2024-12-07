@@ -1,19 +1,18 @@
 # EXPERIENCE
 
-## Veracode, Burlington — Principal Engineer
+## Veracode, Burlington — Engineering Manager
 
 SEPTEMBER 2021 - PRESENT
 
-Building and maintaining cloud-native integrations
-Designing and implementing highly scalabled istributed systems and
+Supporting the implemntation of cloud-native integrations
+Supporting the Design and implemention of highly scalabled distributed systems and
 shared services infrastructure utilizing Kubernetes
-Ensuringastreamlinedandautomatedapplicationdeployment
-SpearheadingTest-DrivenDevelopment
-Mentoringandcollaboratinginsideandoutsidemyteam
+Ensuring streamlined and automated application deployments
+Spearheading Test-Driven Development
 
 ## CloudHealthbyVMware, Boston— LeadInfrastructure
 
-## Engineer
+## Lead Engineer
 
 JULY 2019 - SEPTEMBER 2021
 
@@ -26,7 +25,7 @@ organizationalpriorities
 Deployedencryptionatrestacrosstheentireinfrastructure
 AdministeredmultipleKubernetesproductionclusters
 
-## ThriveHive, Boston— SeniorDevOpsEngineer
+## ThriveHive, Boston— Senior DevOps Engineer
 
 APRIL 2018 - JULY 2019
 
