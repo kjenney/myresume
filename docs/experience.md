@@ -1,8 +1,21 @@
 # EXPERIENCE
 
-## Veracode, Burlington — Engineering Manager
+## Veracode, Burlington — 
 
-SEPTEMBER 2021 - PRESENT
+### Engineering Manager
+
+SEPTEMBER 2023 - PRESENT
+
+Managing the Platform Engineering and Release Engineering teams
+Ensuring that the team meets all goals using Agile processes
+Coordinating with other managers to ensure that product and engineering
+priorities are properly aligned
+Coordinating the implementation of cloud-native solutions that increased
+overall Engineering productivity
+
+### Principal Software Engineer - Team Lead
+
+SEPTEMBER 2021 - SEPTEMBER 2023
 
 Supporting the implemntation of cloud-native integrations
 Supporting the Design and implemention of highly scalabled distributed systems and
