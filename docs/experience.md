@@ -1,6 +1,6 @@
 # EXPERIENCE
 
-## Veracode, Burlington — 
+## Veracode, Burlington
 
 ### Engineering Manager
 
