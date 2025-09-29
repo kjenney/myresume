@@ -54,5 +54,5 @@ JANUARY 2016 - APRIL 2018
 OCTOBER 2007 - DECEMBER 2015
 
 * Wrote the first integration policies for Docker
-IntegratedAgiledevelopmentprocesses
-Setupcentralizedloggingandlogaggregation
+* Integrated Agile development processes
+* Setup centralized logging and logaggregation
