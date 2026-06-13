@@ -1,7 +1,5 @@
 # CERTIFICATIONS
 
-```
-CertifiedKubernetes
-Administrators 2021
-AWSSolutionsArchitect 2021
-```
+
+* Certified Kubernetes Administrators
+* AWS Solutions Architect
