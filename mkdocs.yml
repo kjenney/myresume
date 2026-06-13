@@ -1,1 +1,59 @@
 site_name: My Resume
+site_url: https://kjenney.github.io/myresume
+site_author: Ken Jenney
+site_description: My Resume
+
+# Repository
+repo_name: kjenney/myresume
+repo_url: https://github.com/kjenney/myresume
+
+# Copyright
+copyright: Copyright &copy; 2024 Ken Jenney
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+theme:
+  name: material
+  favicon: assets/me.png
+  logo: assets/me.png
+  features:
+    - announce.dismiss
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Certifications: certifications.md
+  - Education: education.md
+  - Contact: contact.md
+  - Experience: experience.md
+  - Skills: skills.md
