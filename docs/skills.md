@@ -10,4 +10,3 @@
 * Python
 * Chatbots
 * Building and Scaling Agentic Systems
-```
